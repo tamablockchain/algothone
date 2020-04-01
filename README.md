@@ -1,5 +1,6 @@
 # algothone
 Exemples de fonctions et algorythmes en Python.
+
 1)----- FONCTION SANS ARGUMENT -----
 
 2)----- FONCTION AVEC ARGUMENTS -----
